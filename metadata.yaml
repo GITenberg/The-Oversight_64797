@@ -1,11 +1,16 @@
 _repo: The-Oversight_64797
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64797-h/images/cover.jpg
 creator:
   author:
     agent_name: Breuer, Miles J.
     gutenberg_agent_id: '53057'
     url: http://www.gutenberg.org/2009/agents/53057
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64797#The-Oversight
 gutenberg_issued: '2021-03-12'
 gutenberg_type: Text
 identifiers:
